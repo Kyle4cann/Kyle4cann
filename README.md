@@ -19,7 +19,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response PlayBook                    | <a href="https://github.com/Kyle4cann/Incident-Response-Playbook/blob/main/README.md">Incident Response Playbook</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://github.com/Kyle4cann/Incident-Report-Ransomware-Attack-/blob/f6ebea00e4efe047c6bdc4ea706a6e81416a35c4/README.md">Incident Response Report</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Kyle4cann/Securing-Infrastructure-LAB1/edit/main/README.md">Incident Response Report</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -42,13 +43,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+   <a href="https://github.com/user-attachments/assets/66af873d-56a4-4f10-9e1a-bdec0b0b2ade/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+ <a href="https://github.com/user-attachments/assets/66af873d-56a4-4f10-9e1a-bdec0b0b2ade/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+<a href="https://github.com/user-attachments/assets/56df24d6-292f-405a-89cb-67c173d47cbc/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -58,4 +61,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Kyle4cann/Incident-Response-Playbook/blob/main/README.md">Incident Response Playbook</a>
+- <a href="https://github.com/Kyle4cann/Incident-Report-Ransomware-Attack-/blob/f6ebea00e4efe047c6bdc4ea706a6e81416a35c4/README.md">Incident Response Report</a>
 - SOC Automation Project
