@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response PlayBook                    | <a href="https://github.com/Kyle4cann/Incident-Response-Playbook/blob/main/README.md">Incident Response Playbook</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/Kyle4cann/Incident-Report-Ransomware-Attack-/blob/f6ebea00e4efe047c6bdc4ea706a6e81416a35c4/README.md">Incident Response Report</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Kyle4cann/Securing-Infrastructure-LAB1/edit/main/README.md">Incident Response Report</a>|
+| Securing-Infrastructure-LAB1                  | <a href="https://github.com/Kyle4cann/Securing-Infrastructure-LAB1/edit/main/README.md">Securing-Infrastructure-LAB1</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -62,4 +62,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/Kyle4cann/Incident-Response-Playbook/blob/main/README.md">Incident Response Playbook</a>
 - <a href="https://github.com/Kyle4cann/Incident-Report-Ransomware-Attack-/blob/f6ebea00e4efe047c6bdc4ea706a6e81416a35c4/README.md">Incident Response Report</a>
+- <a href="https://github.com/Kyle4cann/Securing-Infrastructure-LAB1/edit/main/README.md">Securing-Infrastructure-LAB1</a>
 - SOC Automation Project
