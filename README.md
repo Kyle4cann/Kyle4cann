@@ -1,18 +1,17 @@
 # Hello, I'm VINCENT
 <a href="https://www.linkedin.com/in/vincent-cann-09685350/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## Introduction
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and hands-on IT support professional with practical experience in system hardening, threat detection, endpoint security, and security operations. Eager to contribute to cybersecurity team while developing real-world skills in incident response, vulnerability management, penetration testing, cloud security, intrusion detection and Security Operations Center (SOC). Seeking a Cybersecurity Intern position to build on technical training and support the company’s efforts to enhance IT security.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am a hands-on IT support professional with practical experience in system hardening, threat detection, endpoint security, and security operations. Eager to contribute to a cybersecurity team while developing real-world skills in incident response, vulnerability management, penetration testing, cloud security, intrusion detection, and Security Operations Center (SOC), and seeking a Cybersecurity Intern position to build on technical training and support the company’s efforts to enhance IT security.
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
