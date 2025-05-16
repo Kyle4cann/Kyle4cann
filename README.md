@@ -7,7 +7,16 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity. I am a hands-on IT support professional with practical experience in system hardening, threat detection, endpoint security, and security operations. Eager to contribute to a cybersecurity team while developing real-world skills in incident response, vulnerability management, penetration testing, cloud security, intrusion detection, and Security Operations Center (SOC), and seeking a Cybersecurity Intern position to build on technical training and support the company’s efforts to enhance IT security.
+My journey in computer science has led me to develop a passion for cybersecurity. I am a hands-on IT support professional with practical experience in system hardening, threat detection, endpoint security, and security operations. Eager to contribute to a cybersecurity team while developing real-world skills in Threat Hunting, Intrusion Detection, Incident Response, Vulnerability Management, Penetration Testing, Cloud Security, Securing Infrastructure, and Security Operations Center (SOC), and seeking a Cybersecurity Intern position to build on technical training and support the company’s efforts to enhance IT security.
+
+
+## Transcript
+
+
+| Degree Honors                                 | Institution                         |  Degree GPA    |
+|-----------------------------------------------|-------------------------------------|----------------|
+|  Ontario College Graduate Certificate (Cybersecurity)      | St. Lawrence College                  | 3.892          |
+| Kwame Nkruman University of Science and Technology (Bsc. Computer Science) | Accra Institute of Technology | 2.95           |
 
 
 ## Skills
