@@ -12,13 +12,34 @@ My skills span Threat Hunting, Incident Response, Intrusion Detection, Penetrati
 My journey in computer science has led me to develop a passion for cybersecurity. I am a hands-on IT support professional with practical experience in system hardening, threat detection, endpoint security, and security operations. Eager to contribute to a cybersecurity team while developing real-world skills in Threat Hunting, Intrusion Detection, Incident Response, Vulnerability Management, Penetration Testing, Cloud Security, Securing Infrastructure, and Security Operations Center (SOC), and seeking a Cybersecurity Intern position to build on technical training and support the company’s efforts to enhance IT security.
 
 
-## Transcript
+## Education Backgroud
 
+| Degree Honors                                                              | Institution                           |  Degree GPA    |
+|----------------------------------------------------------------------------|---------------------------------------|----------------|
+|  Ontario College Graduate Certificate (Cybersecurity)                      | St. Lawrence College                  | 3.892          |
+| Kwame Nkrumah University of Science and Technology (BSc. Computer Science) | Accra Institute of Technology         | 2.95           |
 
-| Degree Honors                                 | Institution                         |  Degree GPA    |
-|-----------------------------------------------|-------------------------------------|----------------|
-|  Ontario College Graduate Certificate (Cybersecurity)      | St. Lawrence College                  | 3.892          |
-| Kwame Nkruman University of Science and Technology (Bsc. Computer Science) | Accra Institute of Technology | 2.95           |
+## Certifications
+
+<div>
+<a href="https://github.com/user-attachments/assets/66af873d-56a4-4f10-9e1a-bdec0b0b2ade/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+<a href="https://github.com/user-attachments/assets/56df24d6-292f-405a-89cb-67c173d47cbc/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+- <a href=https://github.com/user-attachments/assets/63c05b9c-66f8-4831-89e7-ef979891febc/">Introduction to Cybersecurity By SkillUP</a>
+<div>
+- <a href=https://github.com/user-attachments/assets/fd6d2d2d-f3b8-469b-9598-411a2e0b72c5/">Ethical Hacking For Beginner By SkillUP</a>
+<div>      
+- <a href="https://github.com/user-attachments/assets/66af873d-56a4-4f10-9e1a-bdec0b0b2ade/">Splunk Bootcamp By ThinkCloud</a>
+<div>
+- <a href="https://github.com/user-attachments/assets/1da847c7-36e4-41d6-a64e-c48ed72c3755/">Security Operation Center SOC Bootcamp By ThinkCloud</a>
+<div>
+- <a href="https://github.com/user-attachments/assets/56df24d6-292f-405a-89cb-67c173d47cbc/">Wireshak For Ethical Hackers By EC-Council</a>
+<div>
 
 
 ## Skills
@@ -36,7 +57,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -57,28 +77,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
    <a href="https://github.com/user-attachments/assets/66af873d-56a4-4f10-9e1a-bdec0b0b2ade/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<a href="https://github.com/user-attachments/assets/66af873d-56a4-4f10-9e1a-bdec0b0b2ade/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
-<a href="https://github.com/user-attachments/assets/56df24d6-292f-405a-89cb-67c173d47cbc/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-- <a href=https://github.com/user-attachments/assets/63c05b9c-66f8-4831-89e7-ef979891febc/">Introduction to Cybersecurity By SkillUP</a>
-<div>
-- <a href=https://github.com/user-attachments/assets/fd6d2d2d-f3b8-469b-9598-411a2e0b72c5/">Ethical Hacking For Beginner By SkillUP</a>
-<div>      
-- <a href="https://github.com/user-attachments/assets/66af873d-56a4-4f10-9e1a-bdec0b0b2ade/">Splunk Bootcamp By ThinkCloud</a>
-<div>
-- <a href="https://github.com/user-attachments/assets/1da847c7-36e4-41d6-a64e-c48ed72c3755/">Security Operation Center SOC Bootcamp By ThinkCloud</a>
-<div>
-- <a href="https://github.com/user-attachments/assets/56df24d6-292f-405a-89cb-67c173d47cbc/">Wireshak For Ethical Hackers By EC-Council</a>
-<div>
 
     
 ## Projects
