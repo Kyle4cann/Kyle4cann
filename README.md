@@ -1,8 +1,11 @@
 # Hello, I'm VINCENT
 <div>
 <a href="https://www.linkedin.com/in/vincent-cann-09685350/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@kyletech2336"><img src="https://www.cleanpng.com/png-youtube-logo-show-me-the-money-6-producer-cypher-4840781" /></a>
-<div>
+<a href="https://www.youtube.com/@kyletech2336" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
+       alt="YouTube Logo" 
+       width="100">
+</a> 
+
 
 ## Introduction
 I am a passionate and hands-on IT professional with a strong academic background in computer science and cybersecurity. With a graduate certificate from St. Lawrence College (GPA: 3.892) and a BSc in Computer Science, I’ve built practical experience in system hardening, threat detection, and security operations.
