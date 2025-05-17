@@ -1,7 +1,7 @@
 # Hello, I'm VINCENT
 <div>
 <a href="https://www.linkedin.com/in/vincent-cann-09685350/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@kyletech2336"><img src="https://www.uihere.com/free-cliparts/youtube-icon-youtube-logo-png-youtube-logo-1165272" /></a>
+<a href="https://www.youtube.com/@kyletech2336"><img src="https://www.cleanpng.com/png-youtube-logo-show-me-the-money-6-producer-cypher-4840781" /></a>
 <div>
 
 ## Introduction
