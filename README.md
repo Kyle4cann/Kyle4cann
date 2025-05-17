@@ -2,8 +2,10 @@
 <a href="https://www.linkedin.com/in/vincent-cann-09685350/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
+I am a passionate and hands-on IT professional with a strong academic background in computer science and cybersecurity. With a graduate certificate from St. Lawrence College (GPA: 3.892) and a BSc in Computer Science, I’ve built practical experience in system hardening, threat detection, and security operations.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My skills span Threat Hunting, Incident Response, Intrusion Detection, Penetration Testing, and Cloud Security, supported by projects involving SIEM deployment, SOAR automation, and infrastructure security. I'm now seeking a Cybersecurity Intern role to contribute to a dynamic team while advancing my skills in real-world environments.
+
 
 ## Objective
 
